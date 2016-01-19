@@ -8,7 +8,7 @@ The recommended way to install HexViewer is via [Package Control](https://packag
 
 1. Ensure Package Control is installed.  Instructions are found [here](https://packagecontrol.io/installation).
 
-2. In Sublime Text, press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (Win, Linux) or <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (OSX) to bring up the quick panel.  It will show a list of installable plugins.
+2. In Sublime Text, press <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (Win, Linux) or <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>p</kbd> (OSX) to bring up the quick panel.  Start typing 'install' and select 'Package Control: Install Package'. It will show a list of installable plugins.
 
 3. Start typing `HexViewer`; when you see it, select it.
 
